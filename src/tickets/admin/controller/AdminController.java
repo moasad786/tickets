@@ -215,9 +215,7 @@ public class AdminController {
 	     
 	   }
 	   	
-	 
-	
-	 
+	  
 	   
 	 @RequestMapping(value="/admin/bookingList",method = RequestMethod.GET)
 	   public String bookingList(Model model,@RequestParam(value ="offset" , required=false) Integer offset_param
@@ -246,7 +244,6 @@ public class AdminController {
 	   } 
 	   
 	    
-	    
 	   
 
 		 @RequestMapping(value="/admin/update_status_booking",method = RequestMethod.POST)
@@ -269,11 +266,7 @@ public class AdminController {
 		     
 		   }
 	   
-	   
-	 
-	 
-	 
-	 
+	  
 	 
 
 
