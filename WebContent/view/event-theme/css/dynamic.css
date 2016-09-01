@@ -1,0 +1,97 @@
+/* BEGIN background_css */
+.container{
+    max-width: 1170px;
+}  
+.breadcrumb-bg{
+    background: #4187c9 url("http://event-theme.com/themes/electron/wp-content/uploads/2016/01/slide4.jpg");
+}
+body{
+    background: #fff;
+}   
+footer{
+    
+}   
+        
+/* END background_css */
+/* BEGIN font_css */
+html, body, div, p, table, tr, td, th, tbody, tfoot, ul, li, ol, dl, dd, dt, fieldset, blockquote, cite, input, select, textarea, button, a, section, article, aside, header, footer, nav, span,
+h1 span, h2 span{
+  font-family: Raleway;
+}        
+h1, h1 span, h2, h3, h4, h5, h6, h6 a, .styled div span, .join, .btn, .phone, .offer h1.small span {
+    font-family: Oswald;
+}        
+h1{
+
+}
+h2{
+
+}
+h3{
+
+}
+h4{
+
+}
+h5{
+
+}
+h6{
+
+}
+.sidebar .widget-title{
+
+}
+#footer{
+    
+}
+/* END font_css */
+/* BEGIN preset_color_css */
+.post-wrap ul li:before, .tab-content ul li:before,
+.price span, h1 span, i.prime, ul.list-default li:before, .offer h1, .tab-content h3 i, h1 span, h2 span, #upcoming .item .info i, 
+.standard-menu.visible .navbar-default .navbar-nav > li > a i, .standard-menu.visible .navbar-default .navbar-nav > li > a span, .standard-menu.visible .navbar-nav li .sub-nav li a i {
+    color: #bd2871;
+} 
+p.entry-footer a,
+.prime .dblBorder:hover, .prime .dblBorder:hover .dblBorderChild {
+    border-color: #bd2871;
+}
+#slides h3, .btn-primary, .BGprime, h3 span, .option li:hover, .btn-primary, .btn-dark:hover, a.top, .sqaureIconPrime, .owl-theme .owl-controls .owl-buttons div, #upcoming .item:hover, .standard-menu.BGlight .navbar-default .navbar-nav > li:hover, .navbar-nav li .sub-nav li:hover > a, .eventData .btn:hover, #contact_form input[type="submit"]:hover, .subscribe input[type=submit] {
+    background-color: #bd2871;
+} 
+/* ======================= */
+/* ======= SECONDARY ======= */
+/* ======================= */
+#celebs .item i, .main-menu li:hover > a i, .main-menu li:hover > a span, #venue strong, #venue label {
+    color: #ff9000;
+}
+.secondary .dblBorder:hover, .secondary .dblBorder:hover .dblBorderChild {
+    border-color: #ff9000;
+}
+#slides .slide .slide-caption .container span, .pricing .package .inner, .pricing hr, #testimonial-slider span, #subscribeForm input[type="text"] {
+    border-color: #ff9000;
+}
+/* == Background SECONDARY == */
+.navbar-default, .BGsecondary, .option li, .btn-default, #testimonial-slider .carousel-indicators li.active, .galleryImg > a span, .sqaureIconSec, .owl-theme .owl-controls .owl-page span, .tabs-left li.active, .nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus, .nav-tabs > li > a:hover, .nav-tabs > li > a:focus, .pricing .package:hover, #upcoming .item .img, #testimonial-slider .carousel-indicators li, #slides, #venue .btn:hover, .featureBox:hover .sqaureIconPrime {
+    background-color: #ff9000;
+}
+/* == Background LIGHT == */
+.BGlight, .services, #upcoming .item, .standard-menu.BGlight.visible {
+    background-color: #f8f8f8;
+}
+/* ======================= */
+/* =====  DARK GREY  ===== */
+/* ======================= */
+h1, h2, h3, h4, h5, h6, h6 a, .phone small, .offer h1 span, .standard-menu.BGlight.visible .navbar-default .navbar-nav > li > a, .features p {
+    color: #273034;
+}
+/* == Background Color4 == */
+#slides .slide .slide-caption .container h3 span, .BGdark, .phone:hover .BGsecondary, .btn:hover, .middleBox, .btn-dark, .galleryImg, .social ul li a i, ul.tabs-left, #venue h2, .experts .highlightBox, #slides .slide .img {
+    background-color: #273034;
+}
+nav.nav, .standard-menu.BGdark, .eventData .dblBorder:hover .dblBorderChild, .off-canvas-menu.BGdark {
+    background-color: #232323 !important;
+}
+
+        
+/* END preset_color_css */

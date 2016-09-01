@@ -1,0 +1,150 @@
+ 
+/*--------------------------------------------------------------
+----------------------------------------------------------------
+----------------------------------------------------------------
+
+	HEADER
+
+----------------------------------------------------------------
+----------------------------------------------------------------
+--------------------------------------------------------------*/
+
+.home-top-block{
+	display: none;
+}
+.cms-home .home-top-block{
+	display: block;
+}
+
+.showcase1{
+	overflow: hidden;
+	margin-bottom: 50px;
+}
+.showcase1 li{
+	float: left;
+	width: 33.33333333333333%;
+	position: relative;
+}
+.showcase1 li img{
+	width: 100%;
+}
+.showcase1_date{
+	position: absolute;
+	top: 30px;
+	left: 0;
+	width: 100%;
+	font-size: 112px;
+	line-height: 112px;
+	color: #fff;
+	padding-left: 8px;
+	background: -moz-linear-gradient(left,  rgba(0,0,0,1) 0%, rgba(0,0,0,0) 54%, rgba(0,0,0,0) 100%);
+	background: -webkit-gradient(linear, left top, right top, color-stop(0%,rgba(0,0,0,1)), color-stop(54%,rgba(0,0,0,0)), color-stop(100%,rgba(0,0,0,0)));
+	background: -webkit-linear-gradient(left,  rgba(0,0,0,1) 0%,rgba(0,0,0,0) 54%,rgba(0,0,0,0) 100%);
+	background: -o-linear-gradient(left,  rgba(0,0,0,1) 0%,rgba(0,0,0,0) 54%,rgba(0,0,0,0) 100%);
+	background: -ms-linear-gradient(left,  rgba(0,0,0,1) 0%,rgba(0,0,0,0) 54%,rgba(0,0,0,0) 100%);
+	background: linear-gradient(to right,  rgba(0,0,0,1) 0%,rgba(0,0,0,0) 54%,rgba(0,0,0,0) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='#00000000',GradientType=1 );
+}
+.showcase1_info{
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	background: rgba(0,0,0,0.8);
+	padding: 7px;
+	-webkit-transition: 0.3s;
+	-o-transition: 0.3s;
+	transition: 0.3s;
+}
+.showcase1_info h4{
+	font-size: 42px;
+	line-height: 45px;
+	font-weight: 400;
+	color: #fff;
+	text-transform: uppercase;
+	    margin: 0;
+}
+.showcase1_info span{
+	font-size: 27px;
+	line-height: 27px;
+	font-weight: 300;
+	color: #378a16;
+	text-transform: uppercase;
+	-webkit-transition: 0.3s;
+	-o-transition: 0.3s;
+	transition: 0.3s;
+}
+.showcase1 li:hover .showcase1_info{
+	background: rgba(55,138,22,0.8);
+}
+.showcase1 li:hover .showcase1_info span{
+	color: #fff;
+}
+
+.showcase2{
+	overflow: hidden;
+	margin-bottom: 20px;
+}
+.showcase2 li{
+	float: left;
+	width: 16.66666666666666%;
+	position: relative;
+}
+.showcase2 li img{
+	width: 100%;
+}
+.showcase2_date{
+	position: absolute;
+	top: 20px;
+	left: 0;
+	width: 100%;
+	font-size: 62px;
+	line-height: 62px;
+	color: #fff;
+	padding-left: 4px;
+	background: -moz-linear-gradient(left,  rgba(0,0,0,1) 0%, rgba(0,0,0,0) 54%, rgba(0,0,0,0) 100%);
+	background: -webkit-gradient(linear, left top, right top, color-stop(0%,rgba(0,0,0,1)), color-stop(54%,rgba(0,0,0,0)), color-stop(100%,rgba(0,0,0,0)));
+	background: -webkit-linear-gradient(left,  rgba(0,0,0,1) 0%,rgba(0,0,0,0) 54%,rgba(0,0,0,0) 100%);
+	background: -o-linear-gradient(left,  rgba(0,0,0,1) 0%,rgba(0,0,0,0) 54%,rgba(0,0,0,0) 100%);
+	background: -ms-linear-gradient(left,  rgba(0,0,0,1) 0%,rgba(0,0,0,0) 54%,rgba(0,0,0,0) 100%);
+	background: linear-gradient(to right,  rgba(0,0,0,1) 0%,rgba(0,0,0,0) 54%,rgba(0,0,0,0) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='#00000000',GradientType=1 );
+}
+.showcase2_info{
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	background: rgba(0,0,0,0.8);
+	padding: 3px;
+	-webkit-transition: 0.3s;
+	-o-transition: 0.3s;
+	transition: 0.3s;
+}
+.showcase2_info h4{
+	font-size: 22px;
+	line-height: 28px;
+	font-weight: 400;
+	color: #fff;
+	text-transform: uppercase;
+	margin: 0;
+}
+.showcase2_info span{
+	font-size: 15px;
+	line-height: 15px;
+	font-weight: 300;
+	color: #378a16;
+	text-transform: uppercase;
+	letter-spacing: -0.5px;
+	-webkit-transition: 0.3s;
+	-o-transition: 0.3s;
+	transition: 0.3s;
+}
+.showcase2 li:hover .showcase2_info{
+	background: rgba(55,138,22,0.8);
+}
+.showcase2 li:hover .showcase2_info span{
+	color: #fff;
+}
+
+ 
